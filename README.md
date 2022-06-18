@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raveendar-allaparthi
 - 👀 I’m interested to develop web based applications
-- 🌱 I’m currently working on serverless application in firebase environment
+- 🌱 I’m currently working on serverless applications using firebase environment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
